@@ -101,8 +101,5 @@ void loop()
 ![OUTPUT-02](IMG-02.PNG)
 ![OUTPUT-03](IMG-03.PNG)
 
-
-[My image](username.github.com/repository/img/image.jpg)
-
-
-**RESULT: ** Arduino uno analog input functioning is learned and interfaced with digital input switch .
+# RESULT:
+Arduino uno analog input functioning is learned and interfaced with digital input switch .
